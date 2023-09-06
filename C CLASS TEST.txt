@@ -3,3 +3,6 @@ new commit and text test
 
 
 remote add origin test
+
+
+one more new fix
